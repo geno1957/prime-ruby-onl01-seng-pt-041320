@@ -1,4 +1,4 @@
 def prime?(number)
-  start 
+  start = 2 
   
 end
